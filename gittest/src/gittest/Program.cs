@@ -11,6 +11,7 @@ namespace gittest
         {
             int ehj;
             hej = 1;
+            hej--;
         }
     }
 }
