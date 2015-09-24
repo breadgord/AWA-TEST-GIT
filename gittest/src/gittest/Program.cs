@@ -10,6 +10,7 @@ namespace gittest
         public void Main(string[] args)
         {
             int ehj;
+            hej = 1;
         }
     }
 }
